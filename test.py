@@ -6,6 +6,7 @@
 # ...... and another
 # ................ arghhhh
 # kill someone
+# it must be simpler
 
 import random
 
