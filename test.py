@@ -8,6 +8,7 @@
 # kill someone
 # it must be simpler
 # 11th
+# 12th
 
 import random
 
