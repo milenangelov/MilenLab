@@ -7,6 +7,7 @@
 # this was edited in master
 # now we have second run in master
 # it is important to be more careful with details
+# and keep it as simple as possible
 
 import random
 
